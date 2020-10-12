@@ -11,7 +11,7 @@ iam_user_names = ["iam_user_1", "iam_user_2", "iam_user_3"]
 iam_path       = ["/"]
 # Pass only one value to iam_path if you want to use the same values for all users or else pass in multiple values for each user to use in this list.
 
-permissions_boundary_policy_arn = "arn:aws:iam::111111111111:policy/common_permissions_boundary"
+permissions_boundary_policy_arn = "arn:aws:iam::991983039411:policy/test"
 
 # Tags -----------------------------------
 tags = {
